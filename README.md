@@ -6,19 +6,17 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - Learn and practice building data pipelines and analytics workflows
 - Work on data preprocessing, feature engineering, and applied machine learning projects
-- Explore deep learning, self-supervised learning, and explainable AI (XAI)
 - Combine data engineering concepts with machine learning and AI systems
-- Experiment with Generative AI and agentic AI tools, including CrewAI
 - Build projects involving data analysis, visualization, and automation
 - Continuously explore new technologies in the data and AI ecosystem
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Data Engineering foundations
 - Machine Learning & Deep Learning projects
@@ -29,23 +27,9 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-### Programming & Querying
-`Python` `SQL` `C` `C++` `Java`
 
-### Data Science & Machine Learning
-`Pandas` `NumPy` `Matplotlib` `Scikit-Learn` `TensorFlow`
-
-### Generative & Agentic AI
-`CrewAI` `LLMs` `Generative AI`
-
-### Data Engineering & DevOps
-`Docker` `Airflow` `dbt` `PostgreSQL` `Git`
-
----
-
-## 📚 Interests
+##  Interests
 
 - Data Engineering
 - Machine Learning & Deep Learning
@@ -57,7 +41,7 @@
 
 ---
 
-## 🤝 Opportunities
+##  Opportunities
 
 I’m currently looking for internship opportunities, collaborative projects, and learning experiences in:
 
@@ -70,11 +54,6 @@ I’m motivated to keep learning, improving, and building impactful projects wit
 
 ---
 
-## 📫 Let’s Connect
 
-- LinkedIn: *(add your LinkedIn link here)*
-- Email: *(add your email here)*
-
----
 
 ✨ Curious, motivated, and continuously learning.
