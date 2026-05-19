@@ -1,4 +1,4 @@
-# Hi, I’m Kaouthar Khayet 👋
+# Hi, I’m Kawthar Khayet 👋
 
  Data Engineering student passionate about data, machine learning, and AI systems.  
  Rabat, Morocco  
