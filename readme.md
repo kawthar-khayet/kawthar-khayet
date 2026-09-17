@@ -7,20 +7,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=F5A6C8&center=true&vCenter=true&width=750&lines=Data+Engineering+%26+AI+Student;Building+Data+Pipelines+%E2%9C%A6+Lakehouses+%E2%9C%A6+AI+Agents;Kafka+%E2%80%A2+Spark+%E2%80%A2+Iceberg+%E2%80%A2+LLMs;INPT+%E2%80%94+Rabat%2C+Morocco" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=F5A6C8&center=true&vCenter=true&width=750&lines=Data+Engineering+%26+AI+Student;Building+Data+Pipelines+%26+Lakehouses;Kafka+%2B+Spark+%2B+AI+Agents;INPT+Rabat+%7C+Morocco" alt="Typing SVG" />
 <br>
 
 
 </div>
 
-
-<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="500" alt="Late-night data engineering workspace" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="500" alt="Late-night data engineering workspace" />
 </div>
 
 ## About Me
 
-I'm a **third-year Data Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I build **real-time data pipelines, lakehouse architectures, and LLM-powered agents** — with a particular interest in what happens between the data and the model.
+I'm a **third-year Data Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I build **real-time data pipelines, lakehouse architectures, and LLM-powered agents** with a particular interest in what happens between the data and the model.
 
 Across two internships I've shipped an autonomous IT-operations copilot at DXC Technology and an adaptive learning agent at AI-Crafters. On my own time I've built a streaming lakehouse for industrial telemetry and a statistical workbench for A/B testing.
 
@@ -60,6 +59,14 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,idea)](https://skillicons.dev)
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kawthar-khayet&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## GitHub Analytics
 
