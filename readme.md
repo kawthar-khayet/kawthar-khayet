@@ -1,14 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8AFB,25:C5A7F7,50:F5B7D6,75:A9DDF5,100:9DD8F2&height=230&section=header&text=Kawthar%20Khayet&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8AFB,25:C5A7F7,50:F5B7D6,75:A9DDF5,100:9DD8F2&height=230&section=header&text=Kawthar%20Khayet&fontSize=58&fontColor=f5f5f5&fontAlign=middle" />
 
 </div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=F5A6C8&center=true&vCenter=true&width=750&lines=Data+Engineering+%26+AI+Student;Building+Data+Pipelines+%26+LLM+Agents;Turning+Data+into+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=F5A6C8&center=true&vCenter=true&width=750&lines=Data+Engineering+%26+AI+Student;Building+Data+Pipelines+and+AI+Systems;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
 <br>
-
 
 </div>
 
@@ -18,26 +17,25 @@
 
 ## About Me
 
-I'm a **third-year Data Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I build **real-time data pipelines, lakehouse architectures, and LLM-powered agents** that solve concrete operational and business problems.
+I'm a **third-year Data Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I build **real-time data pipelines, lakehouse architectures, and LLM-powered agents** for decision support and automation.
 
-Across two internships I've shipped an autonomous IT-operations copilot at DXC Technology and an adaptive learning agent at AI-Crafters. On my own time I've built a streaming lakehouse for industrial data, statistical experimentation tools, and explainable machine-learning systems.
+Across two internships I've shipped an autonomous IT-operations copilot at DXC Technology and an adaptive learning agent at AI-Crafters. On my own time I've built a streaming lakehouse for industrial data and applied AI to both infrastructure and learning systems.
 
 ## Professional Experience
 
-### Data & AI Engineering Intern — [DXC Technology](https://github.com/kawthar-khayet/Opscopilot_AI)
-**Salé, Technopolis · July – August 2026**
+### [OpsCopilot AI](https://github.com/kawthar-khayet/Opscopilot_AI)
+**Data & AI Engineering Intern — DXC Technology**  
+**Salé, Technopolis · July – August 2026**  
+**AI copilot for IT-support automation**
 
-**OpsCopilot AI — AI copilot for IT-support automation**
-
-- Designed and developed an **LLM agent** using Groq and tool calling to diagnose incidents by combining a **RAG pipeline** with real infrastructure data. The system uses ChromaDB and multilingual French/English E5 embeddings to ground its reasoning in technical runbooks.
-- Developed an **MCP (Model Context Protocol) server** exposing **10 tools** for capacity checks, backups, snapshots, and restoration. These tools execute commands over SSH on a Linux VM using LVM, Restic, systemd, and MinIO/S3, with each action classified according to its risk level.
-- Implemented a **human-in-the-loop workflow**: every remediation is proposed to an engineer, approved before execution, and verified directly on the target machine before the incident is closed. All actions are fully traceable through audit logs and MCP-call tracking.
+- Designed and developed an **LLM agent** using Groq and tool calling to diagnose incidents by combining a **RAG pipeline** with real infrastructure data. The system uses ChromaDB and multilingual retrieval to ground responses in operational knowledge.
+- Developed an **MCP (Model Context Protocol) server** exposing **10 tools** for capacity checks, backups, snapshots, and restoration. These tools execute commands over SSH on a Linux VM using LVM, ReSTic, and shell-based automation.
+- Implemented a **human-in-the-loop workflow**: every remediation is proposed to an engineer, approved before execution, and verified directly on the target machine before the incident is closed. All actions were logged for traceability and safety.
 - Built autonomous failure detection with automatic incident-ticket creation, enabling the copilot to identify infrastructure issues and initiate the support workflow without manual intervention.
 
-### AI Engineering Intern — [AI-Crafters](https://github.com/kawthar-khayet)
+### [Multi-agent social-learning system for adaptive collaborative learning](https://github.com/kawthar-khayet)
+**AI Engineering Intern — AI-Crafters**  
 **Casablanca · July 2025**
-
-**Multi-agent social-learning system for adaptive collaborative learning**
 
 - Developed a **learning-partner recommendation engine** based on skill similarity, using TF-IDF vectorization, cosine similarity, and Scikit-learn to match learners with complementary profiles.
 - Integrated the **Gemini API** to generate personalized educational challenges in four modes and automatically evaluate learner responses with AI-generated feedback.
