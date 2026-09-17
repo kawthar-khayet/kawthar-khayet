@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Data+Engineering+%26+AI+Student;Streaming+Pipelines+%26+Lakehouse+Architecture;LLM+Agents%2C+RAG+%26+MCP;INPT+%E2%80%94+Rabat%2C+Morocco)](https://github.com/kawthar-khayet)
 
-<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" />
-</div>
+<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" /></div>
 
 ## About Me
 
