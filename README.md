@@ -14,7 +14,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" />
+<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="500" alt="Late-night data engineering workspace" />
 
 </div>
 
