@@ -10,7 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=F5A6C8&center=true&vCenter=true&width=750&lines=Data+Engineering+%26+AI+Student;Building+Data+Pipelines+%E2%9C%A6+Lakehouses+%E2%9C%A6+AI+Agents;Kafka+%E2%80%A2+Spark+%E2%80%A2+Iceberg+%E2%80%A2+LLMs;INPT+%E2%80%94+Rabat%2C+Morocco" alt="Typing SVG" />
 <br>
 
-✨　♡　✦　⋆　˚　✧　⋆　♡　✨
 
 </div>
 
