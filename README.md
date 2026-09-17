@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kawthar%20Khayet&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineering%20%26%20AI&descAlignY=52&descSize=18" width="100%" />
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kawthar%20Khayet&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineering%20%26%20AI&descAlignY=52&descSize=18" width="100%" /> <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Data+Engineering+%26+AI+Student;Streaming+Pipelines+%26+Lakehouse+Architecture;LLM+Agents%2C+RAG+%26+MCP;INPT+%E2%80%94+Rabat%2C+Morocco)](https://github.com/kawthar-khayet)
 
