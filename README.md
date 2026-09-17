@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1017,25:ffb6d9,50:ffc8df,75:f5a6c8,100:1a1017&height=250&section=header&text=Kawthar%20Khayet&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DATA%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20BUILDING%20WITH%20DATA&descSize=17&descAlignY=57" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8AFB,25:C5A7F7,50:F5B7D6,75:A9DDF5,100:9DD8F2&height=230&section=header&text=Kawthar%20Khayet&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=48" />
+
+</div>
+
 
 <br>
 
