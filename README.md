@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/header.png" width="100%" alt="Kawthar Khayet — Data Engineering & AI" /> <div align="center">
 
-Typing SVG
 
 <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" /> </div>
 
