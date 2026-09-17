@@ -11,6 +11,7 @@
 <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="500" alt="Late-night data engineering workspace" />
 
 </div>
+
 ## About Me
 
 I'm a **third-year Data Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I build **real-time data pipelines, lakehouse architectures, and LLM-powered agents** — with a particular interest in what happens between the data and the model.
