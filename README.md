@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kawthar%20Khayet&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineering%20%26%20AI&descAlignY=52&descSize=18" width="100%" /> <div align="center">
+<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/header.png" width="100%" alt="Kawthar Khayet — Data Engineering & AI" /> <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Data+Engineering+%26+AI+Student;Streaming+Pipelines+%26+Lakehouse+Architecture;LLM+Agents%2C+RAG+%26+MCP;INPT+%E2%80%94+Rabat%2C+Morocco)](https://github.com/kawthar-khayet)
+Typing SVG
 
-<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" /></div>
+<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" /> </div>
 
 ## About Me
 
@@ -72,7 +72,7 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 
 ---
 
-###[cnc_lakehouse](https://github.com/kawthar-khayet/cnc_lakehouse) — Real-Time Data Platform for Industry 4.0
+### [cnc_lakehouse](https://github.com/kawthar-khayet/cnc_lakehouse) — Real-Time Data Platform for Industry 4.0
 <!-- TODO: ajouter le lien -> ### [CNC Lakehouse](https://github.com/kawthar-khayet/NOM-DU-REPO) — ... -->
 
 **Tech Stack:** `Kafka` `Spark Structured Streaming` `Apache Iceberg` `MinIO` `Trino` `Airflow` `Docker`
