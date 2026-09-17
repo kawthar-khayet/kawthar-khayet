@@ -61,14 +61,6 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,idea)](https://skillicons.dev)
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kawthar-khayet&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## GitHub Analytics
 
 <div align="center">
