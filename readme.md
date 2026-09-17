@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="600" alt="Late-night data engineering workspace" />
+  <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="700" alt="Late-night data engineering workspace" />
 </div>
 
 ## About Me
