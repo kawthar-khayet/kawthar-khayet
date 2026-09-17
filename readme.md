@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="500" alt="Late-night data engineering workspace" />
+  <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="600" alt="Late-night data engineering workspace" />
 </div>
 
 ## About Me
@@ -21,6 +21,22 @@ I'm a **third-year Data Engineering student** at INPT (National Institute of Pos
 
 Across two internships I've shipped an autonomous IT-operations copilot at DXC Technology and an adaptive learning agent at AI-Crafters. On my own time I've built a streaming lakehouse for industrial data and applied AI to both infrastructure and learning systems.
 
+
+### What I Focus On
+
+- **Data Engineering** — Kafka streaming, Spark, medallion architecture (Bronze / Silver / Gold), Airflow orchestration
+- **Lakehouse** — Apache Iceberg on MinIO, Trino query layer, industrial KPIs (OEE, MTBF, MTTR)
+- **LLM Systems** — agentic workflows, RAG pipelines, Model Context Protocol (MCP), human-in-the-loop design
+- **Applied ML & Statistics** — deep learning on audio, explainability (SHAP / LIME), hypothesis testing
+
+### Currently Seeking
+
+**Final-Year Internship (PFE) in Data Engineering**
+*Looking to contribute to production data platforms, streaming pipelines, and AI systems*
+
+**Passionate about:** Data Engineering • Big Data • Lakehouse Architecture • Machine Learning • Agentic AI
+
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:khayetkaouthar@gmail.com)
 ## Professional Experience
 
 ### [OpsCopilot AI](https://github.com/kawthar-khayet/Opscopilot_AI)
@@ -41,12 +57,7 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 - Integrated the **Gemini API** to generate personalized educational challenges in four modes and automatically evaluate learner responses with AI-generated feedback.
 - Built a collaborative **Streamlit interface** supporting discussion, resource sharing, and adaptive learning activities in a single workspace.
 
-### What I Focus On
 
-- **Data Engineering** — Kafka streaming, Spark, medallion architecture (Bronze / Silver / Gold), Airflow orchestration
-- **Lakehouse** — Apache Iceberg on MinIO, Trino query layer, industrial KPIs (OEE, MTBF, MTTR)
-- **LLM Systems** — agentic workflows, RAG pipelines, Model Context Protocol (MCP), human-in-the-loop design
-- **Applied ML & Statistics** — deep learning on audio, explainability (SHAP / LIME), hypothesis testing
 
 ## Tech Stack
 
@@ -150,14 +161,7 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 | AI Engineering Intern | Jul 2025 | **AI-Crafters** |
 | Events Cell Lead | 2025 – 2026 | **ARTY Club, INPT** |
 
-## Currently Seeking
 
-**Final-Year Internship (PFE) in Data Engineering**
-*Looking to contribute to production data platforms, streaming pipelines, and AI systems*
-
-**Passionate about:** Data Engineering • Big Data • Lakehouse Architecture • Machine Learning • Agentic AI
-
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:khayetkaouthar@gmail.com)
 
 ## Let's Connect
 
