@@ -1,8 +1,17 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:f85d7f,100:ff69b4&height=200&section=header&text=Kawthar%20Khayet&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Data%20Engineering%20%26%20AI%20%C2%B7%20INPT%20Rabat&descSize=18&descAlignY=54" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1017,25:ffb6d9,50:ffc8df,75:f5a6c8,100:1a1017&height=250&section=header&text=Kawthar%20Khayet&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DATA%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20BUILDING%20WITH%20DATA&descSize=17&descAlignY=57" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Data+Engineering+%26+AI+Student;Building+Data+Pipelines+%E2%9C%A6+Lakehouses+%E2%9C%A6+AI+Agents;Kafka+%E2%80%A2+Spark+%E2%80%A2+Iceberg+%E2%80%A2+LLMs;INPT+%E2%80%94+Rabat%2C+Morocco" alt="Typing SVG" />
+
+<br>
+
+✨　♡　✦　⋆　˚　✧　⋆　♡　✨
+
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Data+Engineering+%26+AI+Student;Streaming+Pipelines+%26+Lakehouse+Architecture;LLM+Agents%2C+RAG+%26+MCP;INPT+%E2%80%94+Rabat%2C+Morocco)](https://github.com/kawthar-khayet)
 
 <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" />
 
