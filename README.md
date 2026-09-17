@@ -1,7 +1,12 @@
-<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/header.png" width="100%" alt="Kawthar Khayet — Data Engineering & AI" /> <div align="center">
+<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/header.png" width="100%" alt="Kawthar Khayet — Data Engineering & AI" />
 
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" /> </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Data+Engineering+%26+AI+Student;Streaming+Pipelines+%26+Lakehouse+Architecture;LLM+Agents%2C+RAG+%26+MCP;INPT+%E2%80%94+Rabat%2C+Morocco)](https://github.com/kawthar-khayet)
+
+<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="900" alt="Late-night data engineering workspace" />
+
+</div>
 
 ## About Me
 
@@ -46,7 +51,13 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,idea)](https://skillicons.dev)
 
+## GitHub Trophies
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kawthar-khayet&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## GitHub Analytics
 
@@ -71,7 +82,7 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 
 ---
 
-### [cnc_lakehouse](https://github.com/kawthar-khayet/cnc_lakehouse) — Real-Time Data Platform for Industry 4.0
+### [cnc_Lakehouse](https://github.com/kawthar-khayet/cnc_lakehouse) — Real-Time Data Platform for Industry 4.0
 <!-- TODO: ajouter le lien -> ### [CNC Lakehouse](https://github.com/kawthar-khayet/NOM-DU-REPO) — ... -->
 
 **Tech Stack:** `Kafka` `Spark Structured Streaming` `Apache Iceberg` `MinIO` `Trino` `Airflow` `Docker`
@@ -80,7 +91,7 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 
 ---
 
-### [AB_analysis](https://github.com/kawthar-khayet/AB_analysis)— Statistical Experimentation Platform 
+### [AB_Analysis](https://github.com/kawthar-khayet/cnc_lakehouse]  — Statistical Experimentation Platform
 <!-- TODO: ajouter le lien -->
 
 **Tech Stack:** `Python` `NumPy` `SciPy` `Statsmodels` `FastAPI` `React` `TypeScript`
@@ -143,4 +154,4 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/footer.png" width="100%" alt="" />
