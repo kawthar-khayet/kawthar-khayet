@@ -2,22 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8AFB,25:C5A7F7,50:F5B7D6,75:A9DDF5,100:9DD8F2&height=230&section=header&text=Kawthar%20Khayet&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=48" />
 
-</div>
-
-
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=F5A6C8&center=true&vCenter=true&width=550&lines=Data+Engineering+%26+AI+Student;Building+Data+Pipelines+%E2%9C%A6+Lakehouses+%E2%9C%A6+AI+Agents;Kafka+%E2%80%A2+Spark+%E2%80%A2+Iceberg+%E2%80%A2+LLMs;INPT+%E2%80%94+Rabat%2C+Morocco" alt="Typing SVG" />
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=F5A6C8&center=true&vCenter=true&width=750&lines=Data+Engineering+%26+AI+Student;Building+Data+Pipelines+%E2%9C%A6+Lakehouses+%E2%9C%A6+AI+Agents;Kafka+%E2%80%A2+Spark+%E2%80%A2+Iceberg+%E2%80%A2+LLMs;INPT+%E2%80%94+Rabat%2C+Morocco" alt="Typing SVG" />
 
-
-</div>
-
+<br><br>
 
 <img src="https://raw.githubusercontent.com/kawthar-khayet/kawthar-khayet/main/banner.gif" width="500" alt="Late-night data engineering workspace" />
 
 </div>
-
 ## About Me
 
 I'm a **third-year Data Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I build **real-time data pipelines, lakehouse architectures, and LLM-powered agents** — with a particular interest in what happens between the data and the model.
