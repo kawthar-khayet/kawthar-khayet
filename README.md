@@ -1,7 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:f85d7f,100:ff69b4&height=200&section=header&text=Kawthar%20Khayet&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Data%20Engineering%20%26%20AI%20%C2%B7%20INPT%20Rabat&descSize=18&descAlignY=54" />
 </div>
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Data+Engineering+%26+AI+Student;Streaming+Pipelines+%26+Lakehouse+Architecture;LLM+Agents%2C+RAG+%26+MCP;INPT+%E2%80%94+Rabat%2C+Morocco)](https://github.com/kawthar-khayet)
 
