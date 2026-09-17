@@ -93,10 +93,6 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 
 ## GitHub Analytics
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kawthar-khayet&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawthar-khayet&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kawthar-khayet&theme=radical&hide_border=true)
 
