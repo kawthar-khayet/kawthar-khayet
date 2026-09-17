@@ -75,7 +75,7 @@ Across two internships I've shipped an autonomous IT-operations copilot at DXC T
 
 ---
 
-###[cnc_lakehouse] (https://github.com/kawthar-khayet/cnc_lakehouse) — Real-Time Data Platform for Industry 4.0
+###[cnc_lakehouse](https://github.com/kawthar-khayet/cnc_lakehouse) — Real-Time Data Platform for Industry 4.0
 <!-- TODO: ajouter le lien -> ### [CNC Lakehouse](https://github.com/kawthar-khayet/NOM-DU-REPO) — ... -->
 
 **Tech Stack:** `Kafka` `Spark Structured Streaming` `Apache Iceberg` `MinIO` `Trino` `Airflow` `Docker`
