@@ -12,9 +12,7 @@
   <a href="https://kawthar-khayet.github.io/cv_kawthar_khayet.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
 
-re internships and projects in my <a href="https://kawthar-khayet.github.io">personal space ✦</a></sub></p>
 
-### ✦ Tools I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,react,nextjs,docker,githubactions,azure,aws,linux&perline=13" alt="Tech stack" />
